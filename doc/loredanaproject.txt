@@ -1,8 +1,0 @@
-Objetivo
-
-Desenvolver site para divulgação portfolio.
-
-Proposta
-
-O site levará trabalhos pessoais de fotografia, ilustração, vídeo e textos. Divulgação dos trabalhos desenvolvidos 
-nas plataforma do wordpress, twitter, facebook, twitter, facebook, tanlup e youtube para integrar os projetos apresentados.
